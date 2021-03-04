@@ -1,6 +1,3 @@
-# Hello-World
-Just another description
-
 Name: Dany Brito Francisca
 Nationality: Cape Verde
 Education: Graduation in Mathematics at UniCV
